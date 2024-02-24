@@ -6,7 +6,6 @@ import { useState } from "react";
 const Navbar = () => {
 
     const [active, setActive ] = useState('');
-
     return(
         <div className="container">
             <h1>Portfolio</h1>

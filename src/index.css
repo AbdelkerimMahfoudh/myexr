@@ -23,15 +23,28 @@ a {
 .container h1 {
   color: #fff;
   position: relative;
-  right: 10%;
-  margin-left: 10px;
+  right: 5%;
+  cursor: pointer;
 }
 .page-links {
-
+  width: 20vw;
+  display: flex;
+  justify-content: space-between;
+  
 }
+
 .page-links a{
   color: white;
 }
 .social-links {
-
+  width: 10vw;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+.social-links a {
+  color: #fff;
+}
+.page-links a:hover {
+  font-weight: bold;
 }
