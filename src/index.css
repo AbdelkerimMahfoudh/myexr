@@ -20,8 +20,14 @@ a {
  justify-content:space-evenly;
  align-items: center;
 }
+.container h1 {
+  color: #fff;
+  position: relative;
+  right: 10%;
+  margin-left: 10px;
+}
 .page-links {
-  
+
 }
 .page-links a{
   color: white;
