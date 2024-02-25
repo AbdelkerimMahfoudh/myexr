@@ -11,6 +11,7 @@ body {
 
 a {
   text-decoration: none;
+  color: #fff;
 }
 
 .container {
@@ -21,15 +22,11 @@ a {
  align-items: center;
 }
 .container h1 {
-  color: #fff;
   position: relative;
   right: 5%;
   cursor: pointer;
 }
 .container h1:hover {
-  color: blue;
-}
-.container h1:active {
   color: blue;
 }
 .page-links {
@@ -51,11 +48,6 @@ a {
 .social-links a {
   color: #fff;
 }
-/* .social-links a:hover {
-  
-  transition: 3s ease-in-out;
-  border-bottom: #fff 1px solid;
-} */
 .page-links a:hover {
   font-weight: bold;
 }
