@@ -1,7 +1,7 @@
 import { FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-
+import { FaAmazon } from "react-icons/fa";
 
 const Navbar = () => {
 

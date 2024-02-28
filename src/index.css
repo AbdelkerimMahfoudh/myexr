@@ -30,7 +30,7 @@ a {
   color: blue;
 }
 .page-links {
-  width: 20vw;
+  
   display: flex;
   justify-content: space-between;
   
