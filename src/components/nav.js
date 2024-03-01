@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Navbar = () => {
 
-    return(
+    return (
         <div className="container">
             <h1><a href="home">Portfolio</a></h1>
             <div className="page-links">
