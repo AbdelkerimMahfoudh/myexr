@@ -14,9 +14,9 @@ const Navbar = () => {
                 <a href="#">Contact</a>
             </div>
             <div className="social-links">
-                <a href="#"><FaLinkedin /></a>
-                <a href="#"><FaTwitter /></a>
-                <a href="#"><FaGithub /></a>
+                <a href="#"><FaLinkedin/></a>
+                <a href="#"><FaTwitter/></a>
+                <a href="#"><FaGithub/></a>
             </div>
         </div>
     )
